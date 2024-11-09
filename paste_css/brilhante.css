@@ -1,0 +1,18 @@
+body {
+    background-color: #ffeb3b;
+    color: #212121;
+    font-family: Georgia, serif;
+}
+header {
+    background-color: #ff9800;
+    padding: 20px;
+}
+button {
+    background-color: #ffc107;
+    border: none;
+    padding: 10px;
+    color: #212121;
+}
+button:hover {
+    background-color: #ff5722;
+}
